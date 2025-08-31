@@ -1,0 +1,21 @@
+{
+  "huggingface": {
+    "mode": "local",
+    "model": "microsoft/DialoGPT-medium"
+  },
+  "audio": {
+    "tts_engine": "pyttsx3",
+    "voice_style": "formal",
+    "rate_wpm": 180
+  },
+  "conversation": {
+    "default_language": "en",
+    "auto_detect_language": true,
+    "mode": "inquiry",
+    "memory_max_turns": 10
+  },
+  "logging": {
+    "save_transcript": true,
+    "path": "session_log.jsonl"
+  }
+}

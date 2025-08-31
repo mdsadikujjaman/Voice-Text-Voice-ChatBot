@@ -1,0 +1,56 @@
+{"role": "user", "text": "hi how are you"}
+{"role": "bot", "text": "[LLM] Error: 404 Not Found"}
+{"role": "user", "text": "how are you"}
+{"role": "bot", "text": "[LLM] Error: 404 Not Found"}
+{"role": "user", "text": "hi there"}
+{"role": "bot", "text": "[LLM] Error: 404 Not Found"}
+{"role": "user", "text": "hi there"}
+{"role": "bot", "text": "[LLM] Error: 404 Not Found"}
+{"role": "user", "text": "why do you do this"}
+{"role": "bot", "text": "[LLM] Error: 404 Not Found"}
+{"role": "user", "text": "how are you"}
+{"role": "bot", "text": "as a child"}
+{"role": "user", "text": "what are you doing"}
+{"role": "bot", "text": "watching a movie"}
+{"role": "user", "text": "Could you please suggest me some movie name"}
+{"role": "bot", "text": "I'm sorry, I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry. I"}
+{"role": "user", "text": "can you know about bangladesh"}
+{"role": "bot", "text": "bangladesh"}
+{"role": "user", "text": "can you do my homework"}
+{"role": "bot", "text": "can you do my homework?"}
+{"role": "user", "text": "you're lazy"}
+{"role": "bot", "text": "you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy you're lazy"}
+{"role": "user", "text": "hi"}
+{"role": "bot", "text": "hi"}
+{"role": "user", "text": "can we talk"}
+{"role": "bot", "text": "can we talk?"}
+{"role": "user", "text": "My name is shihab"}
+{"role": "bot", "text": "my name is shihab"}
+{"role": "user", "text": "hi"}
+{"role": "bot", "text": "jimmy"}
+{"role": "user", "text": "can we talk"}
+{"role": "bot", "text": "You are a good assistant."}
+{"role": "user", "text": "what's your name"}
+{"role": "bot", "text": "You are a good assistant."}
+{"role": "user", "text": "hi there"}
+{"role": "bot", "text": "I'm sorry to hear that."}
+{"role": "user", "text": "can you able to talk"}
+{"role": "bot", "text": "You have to talk to the assistant."}
+{"role": "user", "text": "what's your nam"}
+{"role": "bot", "text": "You're a helpful assistant."}
+{"role": "user", "text": "how are you"}
+{"role": "bot", "text": "You are a helpful assistant."}
+{"role": "user", "text": "yeah"}
+{"role": "bot", "text": "You're a helpful assistant."}
+{"role": "user", "text": "how are you", "timestamp": "2025-08-30T01:20:59.156816"}
+{"role": "bot", "text": "I'm good", "timestamp": "2025-08-30T01:20:59.566849"}
+{"role": "user", "text": "what's your name", "timestamp": "2025-08-30T01:21:12.235039"}
+{"role": "bot", "text": "Tilted, I'm a guy", "timestamp": "2025-08-30T01:21:13.109747"}
+{"role": "user", "text": "My name is Sadikujjaman", "timestamp": "2025-08-30T01:21:28.742059"}
+{"role": "bot", "text": "how can you know my name?", "timestamp": "2025-08-30T01:21:29.466621"}
+{"role": "user", "text": "It was my name", "timestamp": "2025-08-30T01:21:44.530400"}
+{"role": "bot", "text": "oh ok", "timestamp": "2025-08-30T01:21:44.969914"}
+{"role": "user", "text": "Do you know about Bangladesh", "timestamp": "2025-08-30T01:21:58.210222"}
+{"role": "bot", "text": "no, not really", "timestamp": "2025-08-30T01:21:58.801364"}
+{"role": "user", "text": "hey how are you", "timestamp": "2025-08-30T01:22:23.764226"}
+{"role": "bot", "text": "well, how about you? i guess i'll see", "timestamp": "2025-08-30T01:22:24.994699"}

@@ -1,0 +1,8 @@
+speechrecognition
+pygame
+gTTS
+pyttsx3
+langdetect
+huggingface-hub
+transformers
+torch
