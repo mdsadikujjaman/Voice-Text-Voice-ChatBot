@@ -1,5 +1,4 @@
-==============================
-🎤 Voice Txt Voice Chatbot
+# 🎤 Voice Txt Voice Chatbot
 
 
 A conversational voice-enabled chatbot that combines:
@@ -7,8 +6,8 @@ A conversational voice-enabled chatbot that combines:
 - Microsoft DialoGPT-medium (via Hugging Face for dialogue)
 - gTTS / pyttsx3 (for text-to-speech replies)
 
-============================
-🚀 Features
+
+# 🚀 Features
 
 - Speech-to-Text (ASR): Offline transcription with Vosk.
 - Dialogue Generation (LLM): Conversational responses with DialoGPT-medium.
@@ -16,8 +15,7 @@ A conversational voice-enabled chatbot that combines:
 - Configurable: Choose TTS engine, model, mic device.
 - Offline ASR: Works without internet for speech recognition.
 
-=============================
-📂 Project Structure
+# 📂 Project Structure
 
 
 - │── main.py
@@ -25,8 +23,7 @@ A conversational voice-enabled chatbot that combines:
 - │── README.md
 - │── vosk-model-small-en-us-0.15/
 
-=============================
-⚙️ Installation
+# ⚙️ Installation
 
 1. Clone the project
    Download all files.
@@ -42,8 +39,7 @@ A conversational voice-enabled chatbot that combines:
      https://alphacephei.com/vosk/models
    - Extract folder into project root.
 
-============================
-📌 Visualizations
+# 📌 Visualizations
 
 ## 1st Step
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/74bb97f7-e294-40af-8e2f-adcb426cea71" />
@@ -57,23 +53,20 @@ A conversational voice-enabled chatbot that combines:
 ## 4th Step
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3920e32f-1341-4ca1-9457-ddf04e359476" />
 
-============================
-🛠 Troubleshooting
+# 🛠 Troubleshooting
 
 - No speech detected → run sd.query_devices() and update mic device index in main.py.
 - Bot replies are slow → use a smaller model like microsoft/DialoGPT-small.
 - No sound output → switch to "gtts" in main.py.
 - Hugging Face error → ensure internet connection is available.
 
-============================
-📌 Future Improvements
+# 📌 Future Improvements
 
 - Add multilingual support with different Vosk models.
 - Enhance conversation with memory and tutoring-style explanations.
 - Build a simple GUI or web interface.
 
-=============================
-👨‍💻 Author
+# 👨‍💻 Author
 
 - Developed by Md. Sadikujjaman
 - Powered by Vosk ASR + Hugging Face DialoGPT
@@ -81,4 +74,3 @@ A conversational voice-enabled chatbot that combines:
 - ## [GitHub](https://www.linkedin.com/in/sadikujjaman/)
 - ## [Kaggle](https://www.kaggle.com/mdsadikujjamanshihab)
 ==========================
-"""
